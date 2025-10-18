@@ -1,0 +1,43 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+    color: black;
+}
+
+header{
+    background-color:pink ;
+    color: white;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+main{
+    padding: 20px;
+}
+
+h2{
+    color: palevioletred;
+    border-bottom: 5px solid bisque;
+    padding-bottom:5px;
+    margin-bottom:10px;
+}
+
+.section{
+    margin-bottom: 30px;
+}
+
+.program-list div{
+    background-color: #e0f2f1;
+    margin: 8px;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color:pink;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
